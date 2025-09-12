@@ -1,0 +1,9 @@
+{
+    "name": "christianrhyme/acedera_crud",
+    "description": "Simple CRUD Project",
+    "type": "project",
+    "require": {
+      "php": ">=7.4"
+    }
+  }
+  
